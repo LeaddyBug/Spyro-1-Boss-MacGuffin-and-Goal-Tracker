@@ -1,0 +1,25 @@
+{
+    "tracker_items": {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+            {
+                "type": "itemgrid",
+                "h_alignment": "center",
+                "item_margin": "0,0",
+                "item_size": "5",
+                "rows": [
+                    [
+                        "toastysstilts",
+                        "shempsstaff",
+                        "Blowhard's Beard",
+                        "metalheadsmowhawk",
+                        "jacquesribbon",
+                        "gnastygnorc",
+                        "gnastysloot"
+                    ]
+                ]
+			}
+        ]
+    }
+}
