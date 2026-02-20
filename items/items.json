@@ -1,0 +1,272 @@
+[
+	{
+        "name": "Toasty's Stilts",
+        "type": "toggle",
+        "img": "images/items/toasty.png",
+        "codes": "toastysstilts"
+    },
+	{
+        "name": "Shemp's Staff",
+        "type": "toggle",
+        "img": "images/items/shemp.png",
+        "codes": "shempsstaff"
+    },
+	{
+        "name": "Blowhard's Beard",
+        "type": "toggle",
+        "img": "images/items/blowhard.png",
+        "codes": "Blowhard's Beard"
+    },
+	{
+        "name": "Metalhead's Mowhawk",
+        "type": "toggle",
+        "img": "images/items/metalhead.png",
+        "codes": "metalheadsmowhawk"
+    },
+	{
+        "name": "Jacques' Ribbon",
+        "type": "toggle",
+        "img": "images/items/jacques.png",
+        "codes": "jacquesribbon"
+    },
+	{
+        "name": "Gnasty Gnorc",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "gnastygnorc"
+    },
+	{
+        "name": "Artisans",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "artisans"
+    },
+	{
+        "name": "Beast Makers",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "beastmakers"
+    },
+	{
+        "name": "Peace Keepers",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "peacekeepers"
+    },
+	{
+        "name": "Magic Crafters",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "magiccrafters"
+    },
+	{
+        "name": "Dream Weavers",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "dreamweavers"
+    },
+	{
+        "name": "Stone Hill",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "stonehill"
+    },
+	{
+        "name": "Dark Hollow",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "darkhollow"
+    },
+	{
+        "name": "Town Square",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "townsquare"
+    },
+	{
+        "name": "Toasty",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "toasty"
+    },
+	{
+        "name": "Sunny Flight",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "sunnyflight"
+    },
+	{
+        "name": "Dry Canyon",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "drycanyon"
+    },
+	{
+        "name": "Cliff Town",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "clifftown"
+    },
+	{
+        "name": "Ice Cavern",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "icecavern"
+    },
+	{
+        "name": "Doctor Shemp",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "doctorshemp"
+    },
+	{
+        "name": "Night Flight",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "nightflight"
+    },
+	{
+        "name": "Alpine Ridge",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "alpineridge"
+    },
+	{
+        "name": "High Caves",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "highcaves"
+    },
+	{
+        "name": "Wizard Peak",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "wizardpeak"
+    },
+	{
+        "name": "Blowhard",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "blowhard"
+    },
+	{
+        "name": "Crystal Flight",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "crystalflight"
+    },
+	{
+        "name": "Terrace Village",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "terracevillage"
+    },
+	{
+        "name": "Misty Bog",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "mistybog"
+    },
+	{
+        "name": "Tree Tops",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "treetops"
+    },
+	{
+        "name": "Metalhead",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "metalhead"
+    },
+	{
+        "name": "Wild Flight",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "wildflight"
+    },
+	{
+        "name": "Dark Passage",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "darkpassage"
+    },
+	{
+        "name": "Lofty Castle",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "loftycastle"
+    },
+	{
+        "name": "Haunted Towers",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "hauntedtowers"
+    },
+	{
+        "name": "Jacques",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "jacques"
+    },
+	{
+        "name": "Icy Flight",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "icyflight"
+    },
+	{
+        "name": "Gnorc Cove",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "gnorccove"
+    },
+	{
+        "name": "Twilight Harbor",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "twilightharbor"
+    },
+	{
+        "name": "Gnasty's Loot",
+        "type": "toggle",
+        "img": "images/items/gnastysloot.png",
+        "codes": "gnastysloot"
+    },
+	{
+        "name": "Victory",
+        "type": "toggle",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "victory"
+    },
+	{
+        "name": "Flop Trap",
+        "type": "consumable",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "floptrap"
+    },
+	{
+        "name": "Roll Trap",
+        "type": "consumable",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "rolltrap"
+    },
+	{
+        "name": "Faint Trap",
+        "type": "consumable",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "fainttrap"
+    },
+	{
+        "name": "Extra Life",
+        "type": "consumable",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "extralife"
+    },
+	{
+        "name": "Butterfly",
+        "type": "consumable",
+        "img": "images/items/gnastygnorc.png",
+        "codes": "butterfly"
+    }
+]
